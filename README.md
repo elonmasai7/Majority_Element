@@ -1,0 +1,2 @@
+# Majority_Element
+leetcode
